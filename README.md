@@ -1,7 +1,7 @@
 # lazygit
 Git add, commit, and push with one command
 ###Installation
-For mac: Add this function to your .bash_profile
+For mac: Add this function to your .bash_profile  
 For windows: Add to your .bashrc
 ###Example
 `g First Commit.`
